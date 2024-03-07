@@ -115,9 +115,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Daniel Dovale - ddovale2004@gmail.com - (786) 603-7263
+Daniel Dovale - ddovale2004@gmail.com
 
-Jacob Hoppenstedt - jacobhoppenstedt@gmail.com - (727) 688-7566
+Jacob Hoppenstedt - jacobhoppenstedt@gmail.com
 
 Project Link: [https://github.com/d-dovale/Sweat-Smart](https://github.com/d-dovale/Sweat-Smart)
 
